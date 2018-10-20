@@ -1,5 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
-Будет удалено .gitignore
-Будет удалено .idea/
-Будет удалено index.html
-.idea/
+/.idea/
+/.idea/inspectionProfiles/
+/.idea/x0.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
